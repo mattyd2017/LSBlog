@@ -1,0 +1,167 @@
+#HeaderSection .navbar {
+    background: #d50000;
+    border-bottom: teal 3px solid;
+}
+
+#HeaderSection .navbar a {
+    color: white;
+    font-family: 'Crimson Text', serif;
+}
+
+#Showcase {
+    margin-top: 85px;
+    background: url('../img/crewe.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 400px;
+    font-family: 'Crimson Text', serif;
+}
+#ScarouselExampleSlidesOnly {
+    margin-top: 85px;
+    background: url('../img/crewe.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 400px;
+    font-family: 'Crimson Text', serif;
+}
+#Mainsection {
+    background-color:#FFE4E1
+ 
+}
+.card {
+    border: 2px;
+    border-color: #d50000;
+}
+
+.card-header {
+    width: auto;
+    
+}
+.card-text {
+    color:black;
+    font-family: 'Crimson Text', serif;
+    font-size: 15px;
+    text-align: justify;
+}
+.card-title {
+    font-family: 'Crimson Text', serif;
+    font-size: 170%;
+    font-weight: bold;
+}
+
+
+
+.card-img {
+    height: 400px;
+    width: 350px;
+    filter: blur(1px);
+    -webkit-filter: blur(1px);
+    
+}
+.card-img-top {
+    height: 200px;
+    width: 200px;
+}
+.hr {
+    border: 1px solid teal;
+    
+}
+h1 {
+    color: white;
+    font-family: 'Crimson Text', serif;
+    font-size: 60px
+}
+h4 {
+    color: white;
+    font-family: 'Crimson Text', serif;
+}
+a {
+    text-decoration: none !important;
+}
+.page-link {
+    background-color: #d50000;
+}
+.carousel-item {
+    width: 100%;
+    height: 600px; /* example */
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+  }
+  #footer {
+      background-color: #d50000;
+  }
+  #footer img {
+      margin-top: -110px;
+      width: 50px;
+      height: 50px;
+      margin-bottom: 10px;
+  }
+ p {
+    font-family: 'Crimson Text', serif;
+ }
+ h3 {
+    font-family: 'Crimson Text', serif;
+ }
+ #footer ul li{
+    /* padding:5px 0px; */
+    font-family: 'Crimson Text', serif;
+}
+
+.adress span , .contact span , .social span{
+   color: #FFF; 
+   font-weight: 800; 
+  
+   margin-bottom: 20px;
+   /* display: block;
+   text-transform: uppercase; */
+   font-size: 20px;
+   letter-spacing: 3px;
+   font-family: 'Crimson Text', serif;
+}
+ 
+.adress li p , .contact li a , .social li a{
+    color:#FFF;
+    letter-spacing: 2px;
+    text-decoration:none;
+    font-size:15px;
+    font-family: 'Crimson Text', serif;
+}
+
+.social li{
+    float:left;
+    margin-top: 5px;
+}
+
+.adress , .contact , .social {
+    list-style: none;
+    font-family: 'Crimson Text', serif;
+}
+
+.fa{
+    color:white;
+    margin-right: 15px;
+    font-size:20px;
+    
+}
+.small {
+    text-align: center;
+}
+.h4 {
+    font-family: 'Crimson Text', serif;
+}
+.zoom {
+   
+    
+    transition: transform .2s; /* Animation */
+    margin: 0 auto;
+   
+  }
+  
+  .zoom:hover {
+    transform: scale(1.06); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
