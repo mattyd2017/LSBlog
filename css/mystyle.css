@@ -64,7 +64,9 @@
 }
 .hr {
     border: 1px solid teal;
-    
+}
+.hf {
+    border: 1px solid white;
 }
 h1 {
     color: white;
