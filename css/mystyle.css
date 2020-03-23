@@ -16,6 +16,7 @@
     min-height: 400px;
     font-family: 'Crimson Text', serif;
 }
+
 #ScarouselExampleSlidesOnly {
     margin-top: 85px;
     background: url('../img/crewe.jpg');
@@ -24,10 +25,12 @@
     min-height: 400px;
     font-family: 'Crimson Text', serif;
 }
+
 #Mainsection {
     background-color:#FFE4E1
  
 }
+
 .card {
     border: 2px;
     border-color: #d50000;
@@ -37,19 +40,19 @@
     width: auto;
     
 }
+
 .card-text {
     color:black;
     font-family: 'Crimson Text', serif;
     font-size: 15px;
     text-align: justify;
 }
+
 .card-title {
     font-family: 'Crimson Text', serif;
     font-size: 170%;
     font-weight: bold;
 }
-
-
 
 .card-img {
     height: 400px;
@@ -58,59 +61,71 @@
     -webkit-filter: blur(1px);
     
 }
+
 .card-img-top {
     height: 200px;
     width: 200px;
 }
+
 .hr {
     border: 1px solid teal;
 }
+
 .hf {
     border: 1px solid white;
 }
+
 h1 {
     color: white;
     font-family: 'Crimson Text', serif;
     font-size: 60px
 }
+
 h4 {
     color: white;
     font-family: 'Crimson Text', serif;
 }
+
 a {
     text-decoration: none !important;
 }
+
 .page-link {
     background-color: #d50000;
 }
+
 .carousel-item {
     width: 100%;
-    height: 600px; /* example */
-  }
-  
-  .carousel-item img {
+    height: 600px; 
+}
+
+.carousel-item img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
-    
-  }
-  #footer {
+    object-fit: cover;   
+}
+
+ #footer {
       background-color: #d50000;
-  }
-  #footer img {
+}
+
+#footer img {
       margin-top: -110px;
       width: 50px;
       height: 50px;
       margin-bottom: 10px;
-  }
+}
+
  p {
     font-family: 'Crimson Text', serif;
  }
+
  h3 {
     font-family: 'Crimson Text', serif;
  }
+
  #footer ul li{
-    /* padding:5px 0px; */
+    
     font-family: 'Crimson Text', serif;
 }
 
@@ -150,24 +165,26 @@ a {
     font-size:20px;
     
 }
+
 .small {
     text-align: center;
 }
+
 .h4 {
     font-family: 'Crimson Text', serif;
 }
-.zoom {
-   
-    
+
+.zoom {    
     transition: transform .2s; /* Animation */
     margin: 0 auto;
    
   }
   
-  .zoom:hover {
+.zoom:hover {
     transform: scale(1.04); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-  }
- #nf {
+}
+
+#nf {
      margin-right: 2px;
  }
    
