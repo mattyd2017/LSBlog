@@ -187,4 +187,9 @@ a {
 #nf {
      margin-right: 2px;
  }
+ #lab {
+     height: 150px !important;
+     width: 300px !important;
+     margin-left: 10px;
+ }
    
